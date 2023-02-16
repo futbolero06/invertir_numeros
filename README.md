@@ -1,2 +1,5 @@
-# invertir_numeros
-programa para invertir números 1234 a 4321
+# invertir_numeros_4digitos
+programa para inveritr numeros de 4 digitos
+
+# diagrama de flujo
+![diagrama de flujo](diagrama.png "diagrama de flujo")
